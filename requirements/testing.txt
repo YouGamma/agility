@@ -1,0 +1,15 @@
+# =============================================================
+# AGILITY: PYTHON PACKAGE REQUIREMENTS - TESTING ONLY
+# =============================================================
+# DESCRIPTION:
+#     pip install -r <THIS_FILE>
+#
+# FOR MORE SEE:
+#     http://pip-installer.org/
+# =============================================================
+
+# TESTS
+pytest
+nose
+mock
+mox

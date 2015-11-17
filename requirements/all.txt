@@ -1,0 +1,14 @@
+# =============================================================
+# AGILITY: PYTHON PACKAGE REQUIREMENTS - ALL REQUIREMENTS
+# =============================================================
+# DESCRIPTION:
+#     pip install -r <THIS_FILE>
+#
+# FOR MORE SEE:
+#     http://pip-installer.org/
+# =============================================================
+
+
+-r basic.txt
+-r development.txt
+-r json.txt

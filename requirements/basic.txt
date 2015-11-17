@@ -1,0 +1,10 @@
+# =============================================================
+# AGILITY: PYTHON PACKAGE REQUIREMENTS - MINIMAL INSTALLATION
+# =============================================================
+# DESCRIPTION:
+#     pip install -r <THIS_FILE>
+#
+# FOR MORE SEE:
+#     http://pip-installer.org/
+# =============================================================
+

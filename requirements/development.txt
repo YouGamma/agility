@@ -1,0 +1,25 @@
+# =============================================================
+# AGILITY: PYTHON PACKAGE REQUIREMENTS - DEVELOPMENT ONLY
+# =============================================================
+# DESCRIPTION:
+#     pip install -r <THIS_FILE>
+#
+# FOR MORE SEE:
+#     http://pip-installer.org/
+# =============================================================
+
+
+# DEV SUPPORT
+tox
+coverage
+pytest-cov
+
+# COMPATIBILITY
+modernize
+
+# TESTING
+-r testing.txt
+
+# BUILD
+path-py
+invoke
