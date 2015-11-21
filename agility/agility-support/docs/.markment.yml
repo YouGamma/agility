@@ -1,0 +1,9 @@
+project:
+  name: agility
+  version: 0.0.1.dev0
+  github_maintainer: YouGamma
+  github_url: https://github.com/YouGamma/agility
+  github_fork_url: https://github.com/YouGamma/agility/archive/master.tar.gz
+
+documentation:
+  index: index.md

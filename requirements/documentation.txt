@@ -1,0 +1,11 @@
+# =============================================================
+# AGILITY: PYTHON PACKAGE REQUIREMENTS - DOCUMENTATION ONLY
+# =============================================================
+# DESCRIPTION:
+#     pip install -r <THIS_FILE>
+#
+# FOR MORE SEE:
+#     http://pip-installer.org/
+# =============================================================
+
+# MARKMENT
